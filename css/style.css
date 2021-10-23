@@ -235,6 +235,26 @@
         opacity: 1.1;
     }
 
+    /* artigo */
+    .welcome-message {
+        width: 60%;
+        margin: 20% auto;
+        background-color: #e1e2e3;
+        padding: 2em;
+        border-radius: 1em;
+    }
+
+    .welcome-message h1 {
+        font-size: 2em;
+        margin: 1.5em 0;
+    }
+
+    .welcome-message p {
+        font-size: 1.5em;
+        line-height: 1.5em;
+        margin: 1.5em 0;
+    }
+
     /* rodape */
     .rodape {
         background-color: #67748a;
