@@ -4,6 +4,50 @@
 
 @media (max-width: 480px) {
 
+    /* cabecalho */
+    nav {
+        display: flex;
+        width: 100%;
+        color: white;
+        text-align: center;
+        align-items: center;
+        background-color: #67748a;
+        height: 10vh;
+    }
+
+    nav h3 {
+        font-size: 1.3em;
+        margin-left: 1em;
+    }
+
+    .sign-in-form {
+        display: flex;
+        width: 100%;
+        color: white;
+        align-items: center;
+        justify-content: flex-end;
+        padding: 1em;
+        font-size: 0.8em;
+        margin-left: -0.1em;
+    }
+
+    .sign-in-form h3 {
+        font-size: 1em;
+    }
+
+    .sign-in-form button {
+        height: 5vh;
+        margin-left: 1em;
+        background-color: white;
+        color: #67748a;
+        border: 0;
+        border-radius: 0.3em;
+    }
+
+    .sign-in-form button:hover {
+        opacity: 1.1;
+    }
+
     /* rodape */
     .rodape {
         background-color: #67748a;
