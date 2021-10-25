@@ -5,16 +5,17 @@
 
 @media (max-width: 480px) {
 
-    /* cabecalho */
-    nav {
-        display: flex;
-        width: 100%;
-        color: white;
-        text-align: center;
-        align-items: center;
-        background-color: #67748a;
-        height: 10vh;
-    }
+   
+        /* cabecalho */
+        nav {
+            display: flex;
+            width: 100%;
+            color: white;
+            text-align: center;
+            align-items: center;
+            background-color: #67748a;
+            height: 10vh;
+        }
 
     nav h3 {
         font-size: 1.3em;
